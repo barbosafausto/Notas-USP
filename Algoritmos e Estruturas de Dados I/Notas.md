@@ -5,7 +5,7 @@
 * Fila de Prioridade (Heap)
 * Árvore Rubro-Negra (LLRB)
 
-> Os arquivos das pastas estão incompletos e podem ter erros, mas este README está finalizado. 🥇
+> Os arquivos das pastas estão incompletos e podem ter erros, mas este arquivo está finalizado. 🥇
 
 ## Árvore Binária de Busca 
 
