@@ -349,7 +349,7 @@ struct heap {
     ITEM *fila[maxn]; //É um vetor de nós
     int fim;
     int tam;
-}
+};
 ```
 
 ---
@@ -506,6 +506,7 @@ NO *llrb_inserir_no(NO *raiz, int valor) {
     if ((eh_vermelho(raiz->esq) && eh_vermelho(raiz->dir))) 
         llrb_inverte(raiz);
 
+    return raiz;
 }
 ```
 
