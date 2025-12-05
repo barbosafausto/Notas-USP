@@ -1,6 +1,6 @@
 # Descrição
 
-Esse repositório reúne tudo o que eu produzi enquanto aluno da Universidade de São Paulo (USP). Nos arquivos deste repositório, você poderá encontrar resumos que fiz durante a graduação, com ênfase nas disciplinas de programação. Neste README, estão listado repositórios de alguns projetos que fiz na graduação.
+Esse repositório reúne tudo o que eu produzi enquanto aluno da Universidade de São Paulo (USP). Nos arquivos deste repositório, você poderá encontrar **resumos** que fiz durante a graduação, com ênfase nas disciplinas de programação. Neste README, estão listados os repositórios de alguns **projetos** que fiz.
 
 # Semestre 1
 
