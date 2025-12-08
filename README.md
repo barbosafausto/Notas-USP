@@ -23,7 +23,7 @@ Esse repositório reúne algumas coisas que eu produzi enquanto aluno da Univers
 ## 🧠 Introdução à Ciência da Computação 2
 
 ### Projeto 1: Problema da Mochila (Programação Dinâmica)
-* https://github.com/barbosafausto/knapsack01.git (Falta melhorar o README0
+* https://github.com/barbosafausto/knapsack01.git (Falta melhorar o README).
 
 ### Projeto 2: Algoritmos de Ordenação
 * https://github.com/leo-vianna891/algoritmos-de-ordenacao.git
