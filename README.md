@@ -9,10 +9,8 @@ Esse repositório reúne algumas coisas que eu produzi enquanto aluno da Univers
 * https://github.com/barbosafausto/FTA.git
 
 ### Projeto 2: Sensor de Estacionamento
-* https://github.com/barbosafausto/Parking-Sensor#
-
-## Prática em Lógica Digital
-* [PENDENTE]
+* https://github.com/barbosafausto/Parking-Sensor.git
+  
 
 # Semestre 2
 
@@ -24,9 +22,11 @@ Esse repositório reúne algumas coisas que eu produzi enquanto aluno da Univers
 
 ## Introdução à Ciência da Computação 2
 
-### Projeto 1: Problema da Mochila
+### Projeto 1: Problema da Mochila (Programação Dinâmica)
+*   https://github.com/barbosafausto/USP_Knapsack01.git (falta melhorar o README)
 
 ### Projeto 2: Algoritmos de Ordenação
+* https://github.com/leo-vianna891/algoritmos-de-ordenacao.git
 
 ## Laboratório de Introdução à Ciência da Computação 2
 
