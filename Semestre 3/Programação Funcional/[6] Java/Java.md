@@ -37,4 +37,13 @@ As coleções são transformadas em um fluxo de dados (`stream()`), onde podemos
 * **`filter(Predicate)`:** Deixa passar apenas os elementos que satisfazem uma condição (`p -> p.getQuantidade() > 5`).
 * **`limit(n)`:** Pega apenas os primeiros `n` elementos, imitando o comportamento de um `break` no loop clássico.
 * **`map(Function)`:** Transforma o dado (ex: extrai apenas o nome do Produto).
+  * `mapToInt(Fuction)`: Transforma para uma stream de `Int`.
 * **`forEach(Consumer)`:** Executa uma ação final em cada elemento restante, como imprimir na tela.
+* **`peek(Consumer)`**: Usado para debugar streams (retorna `Stream`).
+* **`findFirst(Consumer)`**: Pede 1 objeto da `Stream` (equivalente a `limit(1)`, porém é consumer).
+  * Exige o tipo `Optional` (análogo do `Maybe`), na chance de não retornar nada.
+  * Impressão exige `objeto.ifPresent`.
+
+* **`orElse(Consumer)`**: retorna um valor se outro não estiver presente, em um tipo `Optional`.
+
+❗O uso de variáveis locais em streams exige variáveis `final`.
