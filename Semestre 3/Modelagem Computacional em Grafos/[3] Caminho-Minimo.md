@@ -11,7 +11,7 @@ O peso mínimo do caminho entre $u$ e $v$ é $\delta(u, v) = \text{min}(w(p))$, 
 
 ## Impressão do Caminho
 
-![](image.png)
+![](images/print_shortest.png)
 
 # Djikstra
 

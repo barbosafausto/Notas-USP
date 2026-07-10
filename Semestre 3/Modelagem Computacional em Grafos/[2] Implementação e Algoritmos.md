@@ -88,7 +88,6 @@ end-while
 Ideia: nós com grau nulo são colocados numa fila.
 
 
-## Componentes Fortemente Conectados
 
 
 
