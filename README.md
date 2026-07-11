@@ -54,15 +54,15 @@ Esse repositório reúne algumas coisas que eu produzi enquanto aluno da Univers
 ### 📁 Organização de Arquivos
 
 #### Projeto - Fase 0/2: Base de Dados
-* https://github.com/barbosafausto/Base-de-Dados.git
+* https://github.com/barbosafausto/Base-de-Dados
 
 #### Projeto - Fase 1/2: Base de Dados + Árvore-B
-* https://github.com/barbosafausto/Base-de-Dados-Arvore-B.git
+* https://github.com/barbosafausto/Base-de-Dados-Arvore-B
 
 #### Projeto - Fase 2/2: Base de Dados + Árvore-B + Join
-* https://github.com/barbosafausto/Base-de-Dados-Arvore-B-Join.git
+* https://github.com/barbosafausto/Base-de-Dados-Arvore-B-Join
 
 ### 🖥️ Organização e Arquitetura de Computadores
 
 #### Projeto 1 - Lista Encadeada em Assembly (RISC-V)
-* https://github.com/barbosafausto/Assembly-RISC-V.git
+* https://github.com/barbosafausto/Assembly-RISC-V
