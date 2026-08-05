@@ -13,7 +13,7 @@ Esse repositório reúne algumas coisas que eu produzi enquanto aluno da Univers
 
 ### 📁 Semestre 3 - Organização de Arquivos
 #### Projeto - Fase 2/2: Base de Dados + Árvore-B + Join
-* https://github.com/barbosafausto/Base-de-Dados-Arvore-B-Join.git
+* https://github.com/barbosafausto/Base-de-Dados-Arvore-B-Join
 
 
 ## 🥇 Semestre 1
